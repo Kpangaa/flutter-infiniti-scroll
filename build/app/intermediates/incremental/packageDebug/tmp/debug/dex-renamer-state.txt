@@ -1,0 +1,4 @@
+#Wed Aug 23 10:18:28 ART 2023
+base.0=C\:\\Users\\herna\\Documents\\MisProyectos\\Flutter\\flutter_infiniti_scroll\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
